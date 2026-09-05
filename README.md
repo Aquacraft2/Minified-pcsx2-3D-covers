@@ -14,7 +14,7 @@ The process i used to make these, first i had to download the ENTIRE repository,
 
 all told, the final file size comes to about 240mb.
 
-to install these files, navigate to the covers folder, and extract them there directly.
+to install these files, go to the releases page, download zip, copy/cut , navigate to the covers folder, paste, and extract them there directly.
 
 after that youll have the file size benefits of the 2d covers, with the seamless look of the 3d covers. and it should still work with later updates and revisions from the original git
 
