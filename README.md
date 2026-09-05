@@ -11,6 +11,9 @@ Using 2img, I compressed all the currently available 3D covers from png to webp 
 Of the ones available via the main git at the time of writing, I've currently pared it down to just the US releases.
 
 
+most of the original readme below.
+
+
 ## PSCoverDL
 
 [![](https://user-images.githubusercontent.com/57191159/275665605-4c4b3042-85e4-45b5-8f1b-48a6f00a93ea.png)](https://user-images.githubusercontent.com/57191159/275665605-4c4b3042-85e4-45b5-8f1b-48a6f00a93ea.png)
