@@ -4,7 +4,7 @@
 - [PSCoverDL App](https://github.com/xlenore/ps2-covers#PSCoverDL)
 - [PCSX2 Setup](https://github.com/xlenore/ps2-covers#pcsx2-setup  "PCSX2 Setup")
 
-## Mini-fied PS2 3D Covers
+# Mini-fied PS2 3D Covers
 
 Using 2img, I compressed all the currently available 3D covers from png to webp for decreased filesize, useful for space conscious users, and keeping ALL the files local ahead of time, without needing to redo the cover downloading process every time.
 
