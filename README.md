@@ -4,6 +4,20 @@
 - [PSCoverDL App](https://github.com/xlenore/ps2-covers#PSCoverDL)
 - [PCSX2 Setup](https://github.com/xlenore/ps2-covers#pcsx2-setup  "PCSX2 Setup")
 
+## Mini-fied PS2 3D Covers
+
+I got tired of constantly needing to go through the process of downloading a new cover, so i decided to try and download the entire repository. Once I did, I noticed a BIG file size difference between them, 8:1. and when i looked closer, I saw that the 2d covers were jpegs, and the 3d covers were png, thats all very well for a couple of games, but for the entire stack, its just not Bonita.
+
+So not only did I trim it down to just the official US titles, (sorry about that, maybe you can copy what i did for your region, or maybe ill get around to just doing the whole thing eventually, but i doubt it), BUT noticed that the PCSX2 program didn't do anything with this transparency, so i figured id fake it with a same colored background. and it works very well.
+
+The process i used to make these, first i had to download the ENTIRE repository, secondly, i thinned out the files to just the us covers to the best of my abilities, then i uploaded them to 2img. and by using the "border" option, with a 1px thickness (0px did nothing) , it changed the base background from black to the very light grey of pcsx2. after that, it was just a simple matter of downloading them and testing them, and finally uploading it here (because i feel like other folks who might be short on space, like me, a steam deck user, would appreciate it)
+
+all told, the final file size comes to about 240mb.
+
+to install these files, navigate to the covers folder, and extract them there directly.
+
+after that youll have the file size benefits of the 2d covers, with the seamless look of the 3d covers. and it should still work with later updates and revisions from the original git
+
 ## PSCoverDL
 
 [![](https://user-images.githubusercontent.com/57191159/275665605-4c4b3042-85e4-45b5-8f1b-48a6f00a93ea.png)](https://user-images.githubusercontent.com/57191159/275665605-4c4b3042-85e4-45b5-8f1b-48a6f00a93ea.png)
